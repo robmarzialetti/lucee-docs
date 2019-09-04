@@ -168,7 +168,7 @@ component {
 ```
 
 ### OnMissingTemplate ###
-This method is triggered when a requested page was not found and **no function "onRequest" is defined **.
+This method is triggered when a requested page was not found and **no function "onRequest" is defined**.
 
 
 ```cfs
