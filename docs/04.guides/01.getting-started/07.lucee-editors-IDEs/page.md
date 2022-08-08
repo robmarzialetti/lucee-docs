@@ -51,12 +51,6 @@ Lucee dictionaries are available for download to support spell checking your cod
 
 <http://cfbrackets.org>
 
-## ActiveState Komodo
-
-<https://www.activestate.com/komodo-ide>
-
-<http://www.we3geeks.org/komodo-cfml/>
-
 ## IntelliJ IDEA
 
 <https://www.jetbrains.com/idea/download/index.html>
